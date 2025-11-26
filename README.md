@@ -67,3 +67,12 @@ I would postpone:
 - Historical backfill
 - Extra metrics and refined churn logic
 - Star schema refactor and advanced monitoring
+
+
+---
+
+## Question 2 – Performance, Data Quality & Communication
+
+The answers for Question 2 (optimisation ideas, data quality risks, debugging approach, and a Slack-style update) are in:
+
+- `docs/performance_quality.md`
