@@ -75,4 +75,4 @@ I would postpone:
 
 The answers for Question 2 (optimisation ideas, data quality risks, debugging approach, and a Slack-style update) are in:
 
-- `docs/performance_quality.md`
+- `docs/`
